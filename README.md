@@ -1,2 +1,2 @@
-# Expense-Tracker-Python
+# Expense-Tracker
 Program created using python
