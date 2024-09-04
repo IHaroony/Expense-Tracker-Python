@@ -1,4 +1,6 @@
 # Expense Tracker
+![image](https://github.com/user-attachments/assets/0b34e008-65c1-4d15-ab87-4009d560ded4)
+
 
 # Overview
 This Python script provides a simple expense tracking application. Users can add expenses, view total spending, and categorize expenses. It offers a command-line interface for interacting with the application.
